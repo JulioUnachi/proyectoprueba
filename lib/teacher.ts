@@ -5,7 +5,7 @@ export const isTeacher = (userId?: string | null) => {
   const teacherId4 = process.env.NEXT_PUBLIC_TEACHER_ID_4;
   //const teacherId5 = process.env.NEXT_PUBLIC_TEACHER_ID_5;
   
-  return (userId === teacherId1 || userId === teacherId2  || userId ===  teacherId3 || userId ===  teacherId4 )
+  return (userId === teacherId1 || userId === teacherId2  || userId ===  teacherId3 && userId ===  teacherId4 )
 
 };
 
