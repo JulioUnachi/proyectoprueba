@@ -148,18 +148,7 @@ const CourseIdPage = async ({
                 courseId={course.id}
               />
             </div>
-            <div>
-              <div className="flex items-center gap-x-2">
-                <IconBadge icon={File} />
-                <h2 className="text-xl">
-                Recursos y documentos adjuntos
-                </h2>
-              </div>
-              <AttachmentForm
-                initialData={course}
-                courseId={course.id}
-              />
-            </div>
+         
           </div>
         </div>
       </div>

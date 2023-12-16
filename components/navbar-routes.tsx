@@ -39,7 +39,7 @@ export const NavbarRoutes = () => {
         ) : isTeacher(userId) && (
           <Link href="/teacher/courses">
             <Button size="sm" variant="ghost">
-              Profesor📚
+              ADMINISTRADOR 🤖
             </Button>
           </Link>
         )}
