@@ -1,7 +1,7 @@
 # Construccion de una plataforma sistema de gestión de aprendizaje(LMS) 
 Herramientas de construccion
 <p>
-Next.js 13,  
+Next.js 13
   Biblioteca:React
   gestion de pagos: Stripe
   API: Mux
