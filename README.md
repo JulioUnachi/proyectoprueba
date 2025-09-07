@@ -1,5 +1,15 @@
-# Build an LMS Platform: Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL
+# Construccion de una plataforma sistema de gestión de aprendizaje(LMS) 
+Herramientas de construccion
+<p>
+Next.js 13,  
+  Biblioteca:React
+  gestion de pagos: Stripe
+  API: Mux
+  ORM: Prisma
+  Framwork CSS:Tailwind
+  BD: MySQL
 
+</p>
 Key Features:
 
 - Browse & Filter Courses
